@@ -21,6 +21,9 @@ export default function App() {
           <Typography variant="h6" color="inherit" noWrap>
             Album layout
           </Typography>
+          <Typography variant="h6" color="inherit" noWrap>
+            Album layout
+          </Typography>
         </Toolbar>
       </AppBar>
       <Hero />
